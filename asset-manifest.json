@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Skill-Up/static/css/main.84bc8389.css",
+    "main.js": "/Skill-Up/static/js/main.281bf74e.js",
+    "static/js/787.80fb99f8.chunk.js": "/Skill-Up/static/js/787.80fb99f8.chunk.js",
+    "static/media/carousel3.png": "/Skill-Up/static/media/carousel3.ac77a67b336ad175f95c.png",
+    "static/media/carousel1.png": "/Skill-Up/static/media/carousel1.f1846e43a4d45226a123.png",
+    "static/media/carousel2.png": "/Skill-Up/static/media/carousel2.3c8a6b19a62f3a6fc0b0.png",
+    "static/media/data1.jpg": "/Skill-Up/static/media/data1.1e410b6f2c9b2b04a06b.jpg",
+    "static/media/web1.jpg": "/Skill-Up/static/media/web1.aa1f2f0fff08ed87cd62.jpg",
+    "static/media/app1.png": "/Skill-Up/static/media/app1.addf6300ecec8f01d6e6.png",
+    "static/media/digital1.png": "/Skill-Up/static/media/digital1.1545e5165996057ce024.png",
+    "static/media/eng2.jpg": "/Skill-Up/static/media/eng2.11118f0ead78134defe9.jpg",
+    "static/media/eng1.png": "/Skill-Up/static/media/eng1.7604c35a82ff484513fb.png",
+    "static/media/PL.png": "/Skill-Up/static/media/PL.0824d27e1f428c51518e.png",
+    "static/media/graphic1.png": "/Skill-Up/static/media/graphic1.e9b6389f32484cc83d00.png",
+    "static/media/graphic2.png": "/Skill-Up/static/media/graphic2.8d9bae06fbb7c51aebde.png",
+    "static/media/game1.jpg": "/Skill-Up/static/media/game1.21d0d30a35171bae3a10.jpg",
+    "static/media/testing1.jpg": "/Skill-Up/static/media/testing1.83316b3d8654002f070d.jpg",
+    "static/media/digital2.jpg": "/Skill-Up/static/media/digital2.f8a96c3daced7deb6408.jpg",
+    "static/media/web2.jpg": "/Skill-Up/static/media/web2.24497b4b8f2d8a573a68.jpg",
+    "static/media/data2.jpg": "/Skill-Up/static/media/data2.63a4557518ab6375c803.jpg",
+    "static/media/mobile1.jpg": "/Skill-Up/static/media/mobile1.ddc2ea69bf3357693d4f.jpg",
+    "static/media/game2.jpg": "/Skill-Up/static/media/game2.9f5975cfb39f62c05ebb.jpg",
+    "static/media/testing2.jpg": "/Skill-Up/static/media/testing2.9609a1e24bcdb4d15c41.jpg",
+    "static/media/mobile2.jpg": "/Skill-Up/static/media/mobile2.dc5d9355a0e21c7435bf.jpg",
+    "static/media/java.jpg": "/Skill-Up/static/media/java.25e9d965509cadcbd673.jpg",
+    "static/media/aboutUs.png": "/Skill-Up/static/media/aboutUs.fafc49407727b3ef9e90.png",
+    "static/media/app2.jpg": "/Skill-Up/static/media/app2.0ebebe4ff92292fd1e09.jpg",
+    "index.html": "/Skill-Up/index.html",
+    "main.84bc8389.css.map": "/Skill-Up/static/css/main.84bc8389.css.map",
+    "main.281bf74e.js.map": "/Skill-Up/static/js/main.281bf74e.js.map",
+    "787.80fb99f8.chunk.js.map": "/Skill-Up/static/js/787.80fb99f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bc8389.css",
+    "static/js/main.281bf74e.js"
+  ]
+}
