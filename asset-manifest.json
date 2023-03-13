@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Skill-Up/static/css/main.84bc8389.css",
-    "main.js": "/Skill-Up/static/js/main.281bf74e.js",
+    "main.css": "/Skill-Up/static/css/main.c128959c.css",
+    "main.js": "/Skill-Up/static/js/main.2ff4c433.js",
     "static/js/787.80fb99f8.chunk.js": "/Skill-Up/static/js/787.80fb99f8.chunk.js",
     "static/media/carousel3.png": "/Skill-Up/static/media/carousel3.ac77a67b336ad175f95c.png",
     "static/media/carousel1.png": "/Skill-Up/static/media/carousel1.f1846e43a4d45226a123.png",
@@ -28,12 +28,12 @@
     "static/media/aboutUs.png": "/Skill-Up/static/media/aboutUs.fafc49407727b3ef9e90.png",
     "static/media/app2.jpg": "/Skill-Up/static/media/app2.0ebebe4ff92292fd1e09.jpg",
     "index.html": "/Skill-Up/index.html",
-    "main.84bc8389.css.map": "/Skill-Up/static/css/main.84bc8389.css.map",
-    "main.281bf74e.js.map": "/Skill-Up/static/js/main.281bf74e.js.map",
+    "main.c128959c.css.map": "/Skill-Up/static/css/main.c128959c.css.map",
+    "main.2ff4c433.js.map": "/Skill-Up/static/js/main.2ff4c433.js.map",
     "787.80fb99f8.chunk.js.map": "/Skill-Up/static/js/787.80fb99f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84bc8389.css",
-    "static/js/main.281bf74e.js"
+    "static/css/main.c128959c.css",
+    "static/js/main.2ff4c433.js"
   ]
 }
